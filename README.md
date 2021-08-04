@@ -1,5 +1,5 @@
 # TightCap: 3D Human Shape Capture with Clothing Tightness Field
-### [ProjectPage](https://chenxin.tech/TightCap.html) | [Paper](https://arxiv.org/abs/1904.02601) | [Video](https://chenxin.tech/files/Paper/TOG2021_TightCap/project_page_TightCap/data/video.mp4) |  Dataset ([Part01](xxx)|[Part02](xxx))
+### [ProjectPage](https://chenxin.tech/TightCap.html) | [Paper](https://arxiv.org/abs/1904.02601) | [Video](https://chenxin.tech/files/Paper/TOG2021_TightCap/project_page_TightCap/data/video.mp4) |  Dataset ([CTD_Static_part](https://1drv.ms/u/s!AsWCggO4PIEBo5pw_uKpM88UQ6AVSA?e=tkHHPf)|[CTD_Dynamic_part](https://1drv.ms/u/s!AsWCggO4PIEBo5p0s3bCkLdva7y8lg?e=6UMRiG))
 [Xin Chen](https://chenxin.tech/), Anqi Pang, [Wei Yang](https://scholar.google.com/citations?user=fRjxdPgAAAAJ&hl=en), Peihao Wang, [Lan Xu](http://xu-lan.com/), [Jingyi Yu](http://www.yu-jingyi.com/).</br>
 In TOG 2021.
 </br>
@@ -33,8 +33,8 @@ TightCap proposes a new clothing tightness dataset (CTD) of human scans with a l
 ### Download
 You can download the CTD dataset (version 1.0) with the static/dynamic part from the OneDrive links. Please unzip each part with all downloaded volumes.
 
-* [[CTD_Static_part](xxx)] (20GB, 228 different garments) The static meshes, various clothed humans with segmented top/down clothing/shoes and carved bodies.
-* [[CTD_Dynamic_part](xxx)] (30GB, 652 annoaare from dynamic 3D human sequences, 13 sequences in total) The dynamic meshes, per-frame clothed humans with segmented top/down clothing/shoes and carved bodies.
+* [[CTD_Static_part](https://1drv.ms/u/s!AsWCggO4PIEBo5pw_uKpM88UQ6AVSA?e=tkHHPf)] (20GB, 228 different garments) The static meshes, various clothed humans with segmented top/down clothing/shoes and carved bodies.
+* [[CTD_Dynamic_part](https://1drv.ms/u/s!AsWCggO4PIEBo5p0s3bCkLdva7y8lg?e=6UMRiG)] (15GB, 652 annotated meshes from dynamic 3D human sequences, 13 sequences in total) The dynamic meshes, per-frame clothed humans with segmented top/down clothing/shoes and carved bodies.
 
 ### Annotation
 The CTD dataset contains various and rich annotations for different 2D/3D vision and graphics tasks, like human generation, body estimation, pose retargeting, clothing segmentation, virtual try-on, neural rendering and so on. The high quality textures support re-rendering multi-view virtual input images for algorithm verification and quantitative experiments.
