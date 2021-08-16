@@ -39,7 +39,7 @@ You can download the CTD dataset (version 1.0) with the static/dynamic part from
 ### Contactor
 Xin Chen, Email: chenxin2@shanghaitech.edu.cn
 
-To encourage related research, we will provide the dataset according to your request. Please email your full name and affiliation to the contact person (chenxin2@shanghaitech.edu.cn). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere. Due to the privacy issue we will not provide the license plates in the future. If you download our dataset, it means you have agreed to our terms of access in the email.
+To encourage related research, we will provide the dataset according to your request. Please email your **full name and affiliation** with **the school/company email account** to the contact person (chenxin2@shanghaitech.edu.cn). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere. Due to the privacy issue we will not provide the license plates in the future. If you download our dataset, it means you have agreed to our terms of access in the email.
 
 ### Annotation
 The CTD dataset contains various and rich annotations for different 2D/3D vision and graphics tasks, like human generation, body estimation, pose retargeting, clothing segmentation, virtual try-on, neural rendering and so on. The high quality textures support re-rendering multi-view virtual input images for algorithm verification and quantitative experiments.
