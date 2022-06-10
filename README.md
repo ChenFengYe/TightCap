@@ -1,5 +1,5 @@
 # TightCap: 3D Human Shape Capture with Clothing Tightness Field
-### [ProjectPage](https://chenxin.tech/TightCap.html) | [Paper](https://arxiv.org/abs/1904.02601) | [Video](https://chenxin.tech/files/Paper/TOG2021_TightCap/project_page_TightCap/data/video.mp4) |  Dataset
+### [ProjectPage](https://chenxin.tech/TightCap.html) | [Paper](https://arxiv.org/abs/1904.02601) | [Video](https://chenxin.tech/files/Paper/TOG2021_TightCap/project_page_TightCap/data/video.mp4) |  Dataset ( [static_part](https://1drv.ms/u/sAsWCggO4PIEBo5pw_uKpM88UQ6AVSA?e=tkHHPf) |  [dynamic_part](https://1drv.ms/u/s!AsWCggO4PIEBo5p0s3bCkLdva7y8lg?e=6UMRiG))
 [Xin Chen](https://chenxin.tech/), Anqi Pang, [Wei Yang](https://scholar.google.com/citations?user=fRjxdPgAAAAJ&hl=en), Peihao Wang, [Lan Xu](http://xu-lan.com/), [Jingyi Yu](http://www.yu-jingyi.com/).</br>
 In TOG 2021.
 </br>
@@ -33,13 +33,14 @@ TightCap proposes a new clothing tightness dataset (CTD) of human scans with a l
 ### Download
 You can download the CTD dataset (version 1.0) with the static/dynamic part from the OneDrive links. Please unzip each part with all downloaded volumes.
 
-* [CTD_Static_part] (20GB, 228 different garments) The static meshes, various clothed humans with segmented top/down clothing/shoes and carved bodies.
-* [CTD_Dynamic_part] (15GB, 652 annotated meshes from dynamic 3D human sequences, 13 sequences in total) The dynamic meshes, per-frame clothed humans with segmented top/down clothing/shoes and carved bodies.
+* [CTD_Static_part](https://1drv.ms/u/sAsWCggO4PIEBo5pw_uKpM88UQ6AVSA?e=tkHHPf) (20GB, 228 different garments) The static meshes, various clothed humans with segmented top/down clothing/shoes and carved bodies.
+* [CTD_Dynamic_part](https://1drv.ms/u/s!AsWCggO4PIEBo5p0s3bCkLdva7y8lg?e=6UMRiG) (15GB, 652 annotated meshes from dynamic 3D human sequences, 13 sequences in total) The dynamic meshes, per-frame clothed humans with segmented top/down clothing/shoes and carved bodies.
 
 ### Contactor
 Xin Chen, Email: chenxin2@shanghaitech.edu.cn
 
-To encourage related research, we will provide the dataset according to your request. Please email your **full name and affiliation** and **the completed** [**declaration**](https://github.com/ChenFengYe/TightCap/blob/master/Declaration/TightCap_Declaration.pdf) with **your school email account**  to the contact person (chenxin2@shanghaitech.edu.cn). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere. Due to the privacy issue we will not provide the license plates in the future. If you download our dataset, it means you have agreed to our terms of access in the declaration.
+To encourage related research, we have provided the download link dataset. Please make sure the dataset is used for non-commercial purposes. Cosidering the privacy issue, do not give it to any third party or publish it publicly anywhere. If you download our dataset, it means you have agreed to our terms of access in the declaration.
+<!-- To encourage related research, we will provide the dataset according to your request. Please email your **full name and affiliation** and **the completed** [**declaration**](https://github.com/ChenFengYe/TightCap/blob/master/Declaration/TightCap_Declaration.pdf) with **your school email account**  to the contact person (chenxin2@shanghaitech.edu.cn). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere. Due to the privacy issue we will not provide the license plates in the future. If you download our dataset, it means you have agreed to our terms of access in the declaration. -->
 
 * [Declaration on the usage of scientific data in the project TightCap](https://github.com/ChenFengYe/TightCap/blob/master/Declaration/TightCap_Declaration.pdf)
 
