@@ -64,10 +64,10 @@ index_dynamic.xlsx, index_static.xlsx
 ## Citation
 If you find our code or paper useful, please consider citing:
 ```
-@article{chen2019tightcap,
-  title={TightCap: 3D human shape capture with clothing tightness},
+@article{chen2021tightcap,
+  title={TightCap: 3D Human Shape Capture with Clothing Tightness Field},
   author={Chen, Xin and Pang, Anqi and Wei, Yang and Peihao, Wang and Xu, Lan and Yu, Jingyi},
-  journal={(TOG 2021) ACM Transactions on Graphics},
+  journal={ACM Transactions on Graphics (Presented at ACM SIGGRAPH)},
   year={2021}
 }
 ```
