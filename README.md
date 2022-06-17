@@ -5,7 +5,7 @@ In SIGGRAPH 2022 (Journal Track).
 </br>
 
 
-This repository contains the official implementation for the paper: [TightCap: 3D Human Shape Capture with Clothing Tightness Field (TOG 2021)](https://arxiv.org/abs/1904.02601). Our work is capable of capturing both the human shape and dressed garments accurately with only a single 3D human scan.<br>
+This repository contains the official implementation for the paper: [TightCap: 3D Human Shape Capture with Clothing Tightness Field (SIGGRAPH 2022)](https://arxiv.org/abs/1904.02601). Our work is capable of capturing both the human shape and dressed garments accurately with only a single 3D human scan.<br>
 <p float="center">
   <img src="./README/dataset.jpg" width="444" />
   <img src="./README/teaser.jpg" width="320" />
