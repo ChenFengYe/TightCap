@@ -16,10 +16,17 @@ In this paper, we present TightCap, a data-driven scheme to capture both the hum
 
 [comment]: <To break the severe variations of the human poses and garments, we propose to model the clothing tightness field – the displacements from the garments to the human shape implicitly in the global UV texturing domain. To this end, we utilize an enhanced statistical human template and an effective multi-stage alignment scheme to map the 3D scan into a hybrid 2D geometry image. Based on this 2D representation, we propose a novel framework to predict clothing tightness field via a novel tightness formulation, as well as an effective optimization scheme to further reconstruct multi-layer human shape and garments under various clothing categories and human postures.> 
 
-## Licenses
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-All material is made available under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you've made.
+## Citation
+If you find our code or paper useful, please consider citing:
+```
+@article{chen2021tightcap,
+  title={TightCap: 3D Human Shape Capture with Clothing Tightness Field},
+  author={Chen, Xin and Pang, Anqi and Wei, Yang and Peihao, Wang and Xu, Lan and Yu, Jingyi},
+  journal={ACM Transactions on Graphics (Presented at ACM SIGGRAPH)},
+  year={2021}
+}
+```
+You can also put a star :star:, if the code is useful to you.
 
 ## The CTD Dataset
 TightCap proposes a new clothing tightness dataset (CTD) of human scans with a large variety of clothing styles, poses, and corresponding ground-truth human shapes to stimulate further research.
@@ -35,15 +42,6 @@ You can download the CTD dataset (version 1.0) with the static/dynamic part from
 
 * [CTD_Static_part](https://1drv.ms/u/s!AsWCggO4PIEBo5pw_uKpM88UQ6AVSA?e=x5ylVh) (20GB, 228 different garments) The static meshes, various clothed humans with segmented top/down clothing/shoes and carved bodies.
 * [CTD_Dynamic_part](https://1drv.ms/u/s!AsWCggO4PIEBo5p0s3bCkLdva7y8lg?e=6UMRiG) (15GB, 652 annotated meshes from dynamic 3D human sequences, 13 sequences in total) The dynamic meshes, per-frame clothed humans with segmented top/down clothing/shoes and carved bodies.
-
-### Contactor
-Xin Chen, Email: chenxin2@shanghaitech.edu.cn
-
-To encourage related research, we have provided the download link dataset. Please make sure the dataset is used for non-commercial purposes. Cosidering the privacy issue, do not give it to any third party or publish it publicly anywhere. If you download our dataset, it means you have agreed to our terms of access in the declaration.
-<!-- To encourage related research, we will provide the dataset according to your request. Please email your **full name and affiliation** and **the completed** [**declaration**](https://github.com/ChenFengYe/TightCap/blob/master/Declaration/TightCap_Declaration.pdf) with **your school email account**  to the contact person (chenxin2@shanghaitech.edu.cn). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere. Due to the privacy issue we will not provide the license plates in the future. If you download our dataset, it means you have agreed to our terms of access in the declaration. -->
-
-* [Declaration on the usage of scientific data in the project TightCap](https://github.com/ChenFengYe/TightCap/blob/master/Declaration/TightCap_Declaration.pdf)
-
 
 ### Annotation
 The CTD dataset contains various and rich annotations for different 2D/3D vision and graphics tasks, like human generation, body estimation, pose retargeting, clothing segmentation, virtual try-on, neural rendering and so on. The high quality textures support re-rendering multi-view virtual input images for algorithm verification and quantitative experiments.
@@ -61,16 +59,18 @@ The tools folder includes the index lists for mesh details. More useful scripts 
 index_dynamic.xlsx, index_static.xlsx
 ```
 
-## Citation
-If you find our code or paper useful, please consider citing:
-```
-@article{chen2021tightcap,
-  title={TightCap: 3D Human Shape Capture with Clothing Tightness Field},
-  author={Chen, Xin and Pang, Anqi and Wei, Yang and Peihao, Wang and Xu, Lan and Yu, Jingyi},
-  journal={ACM Transactions on Graphics (Presented at ACM SIGGRAPH)},
-  year={2021}
-}
-```
+### Contactor
+Xin Chen, Email: chenxin2@shanghaitech.edu.cn
+
+To encourage related research, we have provided the download link dataset. Please make sure the dataset is used for non-commercial purposes. Cosidering the privacy issue, **do not give it to any third party or publish it publicly anywhere**. If you download our dataset, it means you have agreed to our terms of access in the declaration.
+<!-- To encourage related research, we will provide the dataset according to your request. Please email your **full name and affiliation** and **the completed** [**declaration**](https://github.com/ChenFengYe/TightCap/blob/master/Declaration/TightCap_Declaration.pdf) with **your school email account**  to the contact person (chenxin2@shanghaitech.edu.cn). We ask for your information only to make sure the dataset is used for non-commercial purposes. We will not give it to any third party or publish it publicly anywhere. Due to the privacy issue we will not provide the license plates in the future. If you download our dataset, it means you have agreed to our terms of access in the declaration. -->
+
+* [Declaration on the usage of scientific data in the project TightCap](https://github.com/ChenFengYe/TightCap/blob/master/Declaration/TightCap_Declaration.pdf)
+
+## Licenses
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+All material is made available under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) license. You can **use, redistribute, and adapt** the material for **non-commercial purposes**, as long as you give appropriate credit by **citing our paper** and **indicating any changes** that you've made.
 
 ## Relevant Works
 [**Multi-view Neural Human Rendering (CVPR 2020)**](https://github.com/wuminye/NHR)<br>
