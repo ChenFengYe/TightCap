@@ -54,7 +54,7 @@ c: coat, d: dress, t: t-shirt, p: pants
 For the dynamic part, each sequence also includes naked, top/bottom, and original textured mesh. These annotated frames are selected from original dynamic clip under 30 FPS. We also visualize these meshes. Moreover, we will release these dynamic sequences soon, and you can refer to [Multi-view Neural Human Rendering (NHR)](https://github.com/wuminye/NHR) for more dynamic mesh sequences and the code for neural human rendering.
 
 ### Tools - DomeViewer
-[DomeViewer](https://github.com/ChenFengYe/TightCap/DomeViewer) is designed to support CTD dataset based on Unity3D engine, which can play 4D free-viewpoint video with dynamic mesh sequences. You can freely pause, play and fast forward the model after loading, and unlike traditional videos, you can control the rotation of the viewpoint with the right mouse button to experience 4D video clip.
+[DomeViewer](https://github.com/ChenFengYe/TightCap/tree/master/DomeViewer) is designed to support CTD dataset based on Unity3D engine, which can play 4D free-viewpoint video with dynamic mesh sequences. You can freely pause, play and fast forward the model after loading, and unlike traditional videos, you can control the rotation of the viewpoint with the right mouse button to experience 4D video clip.
 <p float="left">
   <img src="./DomeViewer/README/domeviewer1.gif" width="380" />
   <img src="./DomeViewer/README/domeviewer2.gif" width="380" />
