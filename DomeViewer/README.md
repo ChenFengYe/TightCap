@@ -4,7 +4,7 @@
 DomeViewer is used to play 4D dynamic mesh sequences, which can freely pause, play and fast forward the model after loading, and unlike traditional videos, you can control the rotation of the viewpoint with the right mouse button to watch "4D video" from each viewpoint. You can find more details/version in [DomeViewer Page](https://github.com/ChenFengYe/DomeViewer).
 
 ## Example
-We provide a static case in example folder. You can also download more cases from [TightCap Datset](https://github.com/ChenFengYe/TightCap) and [Neural Human Rendering](https://wuminye.github.io/NHR/).
+We provide a static case in example folder. You can also download more cases from [TightCap Dataset](https://github.com/ChenFengYe/TightCap) and [Neural Human Rendering](https://wuminye.github.io/NHR/).
 <p float="left">
   <img src="./README/domeviewer1.gif" width="380" />
   <img src="./README/domeviewer2.gif" width="380" />
