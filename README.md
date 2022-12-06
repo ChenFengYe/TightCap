@@ -1,5 +1,5 @@
 # TightCap: 3D Human Shape Capture with Clothing Tightness Field
-### [ProjectPage](https://chenxin.tech/TightCap.html) | [Paper](https://arxiv.org/abs/1904.02601) | [Video](https://chenxin.tech/files/Paper/TOG2021_TightCap/project_page_TightCap/data/video.mp4) |  Dataset ( [static_part](https://1drv.ms/u/s!AsWCggO4PIEBo5pw_uKpM88UQ6AVSA?e=x5ylVh) |  [dynamic_part](https://1drv.ms/u/s!AsWCggO4PIEBo5p0s3bCkLdva7y8lg?e=6UMRiG))
+### [ProjectPage](https://chenxin.tech/TightCap) | [Paper](https://arxiv.org/abs/1904.02601) | [Video](https://chenxin.tech/files/Paper/TOG2021_TightCap/project_page_TightCap/data/video.mp4) |  Dataset ( [static_part](https://1drv.ms/u/s!AsWCggO4PIEBo5pw_uKpM88UQ6AVSA?e=x5ylVh) |  [dynamic_part](https://1drv.ms/u/s!AsWCggO4PIEBo5p0s3bCkLdva7y8lg?e=6UMRiG))
 [Xin Chen](https://chenxin.tech/), Anqi Pang, [Wei Yang](https://scholar.google.com/citations?user=fRjxdPgAAAAJ&hl=en), Peihao Wang, [Lan Xu](http://xu-lan.com/), [Jingyi Yu](http://www.yu-jingyi.com/).</br>
 In SIGGRAPH 2022 (Journal Track).
 </br>
